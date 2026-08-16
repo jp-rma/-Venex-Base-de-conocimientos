@@ -5,7 +5,7 @@
 | **Código** | GUIDE-XXX |
 | **Categoría** | Guía Técnica |
 | **Área** | |
-| **Estado** | Vigente |
+| **Estado** | <span class="kb-status kb-status--ok">Vigente</span> |
 | **Versión** | 1.0 |
 | **Fecha de creación** | |
 | **Última actualización** | |

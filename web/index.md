@@ -62,6 +62,7 @@ Información técnica clara y reutilizable para **Ventas**, **Taller de Armado**
     - Registrar configuraciones relevantes para futuras consultas.
 
     [Ir a Procedimientos](01-Procedimientos/README.md){ .md-button }
+    [Ir a Checklists](04-Checklists/README.md){ .md-button }
 
 === "RMA y Soporte"
 

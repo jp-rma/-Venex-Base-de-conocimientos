@@ -5,7 +5,7 @@
 | **Código** | RMA-001 |
 | **Categoría** | Caso RMA |
 | **Área** | RMA, Taller de Armado, Soporte Técnico Virtual y Ventas |
-| **Estado** | Validado |
+| **Estado** | <span class="kb-status kb-status--ok">Validado</span> |
 | **Versión** | 1.0 |
 | **Fecha de las pruebas** | 2026-07-15 |
 | **Fecha de creación** | 2026-08-15 |

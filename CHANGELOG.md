@@ -6,6 +6,15 @@ El objetivo es mantener un historial de la evolución de la estructura, organiza
 
 ---
 
+## [0.9.0] - 2026-08-15
+
+### Agregado
+
+- Incorporación de etiquetas verdes para los estados positivos `Vigente`, `Validado` y `Verificado` en el sitio web.
+- Incorporación de un acceso directo a Checklists desde la pestaña de Taller de Armado de la portada.
+
+---
+
 ## [0.8.2] - 2026-08-15
 
 ### Modificado

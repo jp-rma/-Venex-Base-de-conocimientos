@@ -5,7 +5,7 @@
 | **Código** | CHK-001 |
 | **Categoría** | Checklist |
 | **Área** | Taller de Armado y RMA |
-| **Estado** | Vigente |
+| **Estado** | <span class="kb-status kb-status--ok">Vigente</span> |
 | **Versión** | 1.2 |
 | **Fecha de creación** | 2026-08-15 |
 | **Última actualización** | 2026-08-15 |

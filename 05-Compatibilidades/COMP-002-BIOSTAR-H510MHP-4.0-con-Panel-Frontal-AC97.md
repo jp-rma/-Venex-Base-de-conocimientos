@@ -5,7 +5,7 @@
 | **Código** | COMP-002 |
 | **Categoría** | Compatibilidad / Incompatibilidad |
 | **Área** | Ventas, Taller de Armado, RMA y Soporte Técnico Virtual |
-| **Estado** | Vigente |
+| **Estado** | <span class="kb-status kb-status--ok">Vigente</span> |
 | **Versión** | 1.0 |
 | **Fecha de creación** | 2026-08-15 |
 | **Última actualización** | 2026-08-15 |

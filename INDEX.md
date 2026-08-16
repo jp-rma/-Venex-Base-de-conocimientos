@@ -18,8 +18,8 @@ Este documento centraliza el acceso a toda la documentación técnica disponible
 
 | Código | Documento | Estado |
 |--------|-----------|--------|
-| GUIDE-001 | [Memoria RAM en dual channel](02-Guias-Tecnicas/GUIDE-001-Memoria-RAM-Dual-Channel.md) | Vigente |
-| GUIDE-002 | [Conectores de ventiladores y bombas para refrigeración AIO](02-Guias-Tecnicas/GUIDE-002-Conectores-de-Ventiladores-y-Bombas-para-AIO.md) | Vigente |
+| GUIDE-001 | [Memoria RAM en dual channel](02-Guias-Tecnicas/GUIDE-001-Memoria-RAM-Dual-Channel.md) | <span class="kb-status kb-status--ok">Vigente</span> |
+| GUIDE-002 | [Conectores de ventiladores y bombas para refrigeración AIO](02-Guias-Tecnicas/GUIDE-002-Conectores-de-Ventiladores-y-Bombas-para-AIO.md) | <span class="kb-status kb-status--ok">Vigente</span> |
 
 ---
 
@@ -27,7 +27,7 @@ Este documento centraliza el acceso a toda la documentación técnica disponible
 
 | Código | Documento | Estado |
 |--------|-----------|--------|
-| RMA-001 | [Bajones de FPS por memoria RAM en single channel](03-Casos-RMA/RMA-001-Bajones-de-FPS-por-Memoria-Single-Channel.md) | Validado |
+| RMA-001 | [Bajones de FPS por memoria RAM en single channel](03-Casos-RMA/RMA-001-Bajones-de-FPS-por-Memoria-Single-Channel.md) | <span class="kb-status kb-status--ok">Validado</span> |
 
 ---
 
@@ -35,7 +35,7 @@ Este documento centraliza el acceso a toda la documentación técnica disponible
 
 | Código | Documento | Estado |
 |--------|-----------|--------|
-| CHK-001 | [Ampliación de memoria o almacenamiento en notebooks](04-Checklists/CHK-001-Ampliacion-de-Memoria-o-Almacenamiento-en-Notebooks.md) | Vigente |
+| CHK-001 | [Ampliación de memoria o almacenamiento en notebooks](04-Checklists/CHK-001-Ampliacion-de-Memoria-o-Almacenamiento-en-Notebooks.md) | <span class="kb-status kb-status--ok">Vigente</span> |
 
 ---
 
@@ -43,8 +43,8 @@ Este documento centraliza el acceso a toda la documentación técnica disponible
 
 | Código | Documento | Estado |
 |--------|-----------|--------|
-| COMP-001 | [Ryzen 5 3400G con motherboards B550](05-Compatibilidades/COMP-001-Ryzen-5-3400G-con-Motherboards-B550.md) | Vigente |
-| COMP-002 | [BIOSTAR H510MHP 4.0 con panel frontal AC'97](05-Compatibilidades/COMP-002-BIOSTAR-H510MHP-4.0-con-Panel-Frontal-AC97.md) | Vigente |
+| COMP-001 | [Ryzen 5 3400G con motherboards B550](05-Compatibilidades/COMP-001-Ryzen-5-3400G-con-Motherboards-B550.md) | <span class="kb-status kb-status--ok">Vigente</span> |
+| COMP-002 | [BIOSTAR H510MHP 4.0 con panel frontal AC'97](05-Compatibilidades/COMP-002-BIOSTAR-H510MHP-4.0-con-Panel-Frontal-AC97.md) | <span class="kb-status kb-status--ok">Vigente</span> |
 
 ---
 

@@ -18,4 +18,4 @@ Ejemplos:
 
 | Código | Documento | Estado |
 |--------|-----------|--------|
-| CHK-001 | [Ampliación de memoria o almacenamiento en notebooks](CHK-001-Ampliacion-de-Memoria-o-Almacenamiento-en-Notebooks.md) | Vigente |
+| CHK-001 | [Ampliación de memoria o almacenamiento en notebooks](CHK-001-Ampliacion-de-Memoria-o-Almacenamiento-en-Notebooks.md) | <span class="kb-status kb-status--ok">Vigente</span> |

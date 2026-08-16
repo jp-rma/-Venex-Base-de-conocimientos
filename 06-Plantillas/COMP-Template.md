@@ -5,7 +5,7 @@
 | **Código** | COMP-XXX |
 | **Categoría** | Compatibilidad |
 | **Área** | |
-| **Estado** | Vigente |
+| **Estado** | <span class="kb-status kb-status--ok">Vigente</span> |
 | **Versión** | 1.0 |
 | **Fecha de creación** | |
 | **Última actualización** | |

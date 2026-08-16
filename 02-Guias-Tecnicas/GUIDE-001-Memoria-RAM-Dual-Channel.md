@@ -5,7 +5,7 @@
 | **Código** | GUIDE-001 |
 | **Categoría** | Guía Técnica |
 | **Área** | Taller de Armado, RMA, Soporte Técnico Virtual y Ventas |
-| **Estado** | Vigente |
+| **Estado** | <span class="kb-status kb-status--ok">Vigente</span> |
 | **Versión** | 1.1 |
 | **Fecha de creación** | 2026-08-15 |
 | **Última actualización** | 2026-08-15 |

@@ -4,6 +4,9 @@
   --kb-blue-dark: #58a6ff;
   --kb-blue-dark-hover: #1f6feb;
   --kb-green: #1a7f37;
+  --kb-status-ok-bg: #dafbe1;
+  --kb-status-ok-border: #82d99a;
+  --kb-status-ok-text: #116329;
   --kb-border-light: #d1d9e0;
   --kb-border-dark: #30363d;
   --kb-header-light: #24292f;
@@ -46,6 +49,9 @@
   --kb-button-secondary-text: var(--kb-blue-dark);
   --kb-button-secondary-hover-bg: #1f6feb;
   --kb-button-secondary-hover-text: #ffffff;
+  --kb-status-ok-bg: rgba(46, 160, 67, 0.16);
+  --kb-status-ok-border: rgba(63, 185, 80, 0.55);
+  --kb-status-ok-text: #56d364;
 }
 
 body {
@@ -98,6 +104,24 @@ body {
 .md-typeset table:not([class]) td,
 .md-typeset table:not([class]) th {
   border-color: var(--md-default-fg-color--lightest);
+}
+
+.md-typeset .kb-status {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.08rem 0.45rem;
+  border: 1px solid transparent;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  line-height: 1.35;
+  white-space: nowrap;
+}
+
+.md-typeset .kb-status--ok {
+  border-color: var(--kb-status-ok-border);
+  background-color: var(--kb-status-ok-bg);
+  color: var(--kb-status-ok-text);
 }
 
 .md-typeset .md-button {

@@ -12,4 +12,4 @@ Los documentos no deben incluir nombres de clientes, números de serie, UUID ni 
 
 | Código | Documento | Estado |
 |--------|-----------|--------|
-| RMA-001 | [Bajones de FPS por memoria RAM en single channel](RMA-001-Bajones-de-FPS-por-Memoria-Single-Channel.md) | Validado |
+| RMA-001 | [Bajones de FPS por memoria RAM en single channel](RMA-001-Bajones-de-FPS-por-Memoria-Single-Channel.md) | <span class="kb-status kb-status--ok">Validado</span> |

@@ -17,5 +17,5 @@ Ejemplos:
 
 | Código | Documento | Estado |
 |--------|-----------|--------|
-| COMP-001 | [Ryzen 5 3400G con motherboards B550](COMP-001-Ryzen-5-3400G-con-Motherboards-B550.md) | Vigente |
-| COMP-002 | [BIOSTAR H510MHP 4.0 con panel frontal AC'97](COMP-002-BIOSTAR-H510MHP-4.0-con-Panel-Frontal-AC97.md) | Vigente |
+| COMP-001 | [Ryzen 5 3400G con motherboards B550](COMP-001-Ryzen-5-3400G-con-Motherboards-B550.md) | <span class="kb-status kb-status--ok">Vigente</span> |
+| COMP-002 | [BIOSTAR H510MHP 4.0 con panel frontal AC'97](COMP-002-BIOSTAR-H510MHP-4.0-con-Panel-Frontal-AC97.md) | <span class="kb-status kb-status--ok">Vigente</span> |
