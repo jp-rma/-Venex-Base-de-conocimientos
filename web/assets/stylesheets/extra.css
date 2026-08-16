@@ -1,6 +1,8 @@
 :root {
   --kb-blue: #0969da;
+  --kb-blue-hover: #0757b5;
   --kb-blue-dark: #58a6ff;
+  --kb-blue-dark-hover: #1f6feb;
   --kb-green: #1a7f37;
   --kb-border-light: #d1d9e0;
   --kb-border-dark: #30363d;
@@ -20,6 +22,11 @@
   --md-default-fg-color--lighter: #818b98;
   --md-default-fg-color--lightest: #d1d9e0;
   --md-code-bg-color: #f6f8fa;
+  --kb-button-secondary-bg: #ffffff;
+  --kb-button-secondary-border: var(--kb-blue);
+  --kb-button-secondary-text: var(--kb-blue);
+  --kb-button-secondary-hover-bg: #ddf4ff;
+  --kb-button-secondary-hover-text: #0550ae;
 }
 
 [data-md-color-scheme="slate"] {
@@ -34,6 +41,11 @@
   --md-default-fg-color--lighter: #8b949e;
   --md-default-fg-color--lightest: #30363d;
   --md-code-bg-color: #161b22;
+  --kb-button-secondary-bg: #161b22;
+  --kb-button-secondary-border: var(--kb-blue-dark);
+  --kb-button-secondary-text: var(--kb-blue-dark);
+  --kb-button-secondary-hover-bg: #1f6feb;
+  --kb-button-secondary-hover-text: #ffffff;
 }
 
 body {
@@ -89,12 +101,39 @@ body {
 }
 
 .md-typeset .md-button {
+  background-color: var(--kb-button-secondary-bg);
+  border-color: var(--kb-button-secondary-border);
   border-radius: 0.4rem;
+  color: var(--kb-button-secondary-text);
+  font-weight: 600;
+}
+
+.md-typeset .md-button:is(:hover, :focus-visible) {
+  background-color: var(--kb-button-secondary-hover-bg);
+  border-color: var(--kb-button-secondary-border);
+  color: var(--kb-button-secondary-hover-text);
+}
+
+.md-typeset .md-button:focus-visible {
+  outline: 0.15rem solid color-mix(in srgb, var(--md-accent-fg-color) 45%, transparent);
+  outline-offset: 0.12rem;
 }
 
 .md-typeset .md-button--primary {
   background-color: var(--kb-blue);
   border-color: var(--kb-blue);
+  color: #ffffff;
+}
+
+.md-typeset .md-button--primary:is(:hover, :focus-visible) {
+  background-color: var(--kb-blue-hover);
+  border-color: var(--kb-blue-hover);
+  color: #ffffff;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .md-button--primary:is(:hover, :focus-visible) {
+  background-color: var(--kb-blue-dark-hover);
+  border-color: var(--kb-blue-dark-hover);
 }
 
 .md-typeset .grid.cards > ul > li,
