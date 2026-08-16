@@ -88,13 +88,17 @@ nav:
   - Guías técnicas:
       - Introducción: 02-Guias-Tecnicas/README.md
       - Memoria RAM en dual channel: 02-Guias-Tecnicas/GUIDE-001-Memoria-RAM-Dual-Channel.md
+      - Conectores para refrigeración AIO: 02-Guias-Tecnicas/GUIDE-002-Conectores-de-Ventiladores-y-Bombas-para-AIO.md
   - Casos RMA:
       - Introducción: 03-Casos-RMA/README.md
       - Bajones de FPS por single channel: 03-Casos-RMA/RMA-001-Bajones-de-FPS-por-Memoria-Single-Channel.md
   - Checklists:
       - Introducción: 04-Checklists/README.md
+      - Ampliación de notebooks: 04-Checklists/CHK-001-Ampliacion-de-Memoria-o-Almacenamiento-en-Notebooks.md
   - Compatibilidades:
       - Introducción: 05-Compatibilidades/README.md
+      - Ryzen 5 3400G con motherboards B550: 05-Compatibilidades/COMP-001-Ryzen-5-3400G-con-Motherboards-B550.md
+      - BIOSTAR H510MHP 4.0 y panel frontal AC'97: 05-Compatibilidades/COMP-002-BIOSTAR-H510MHP-4.0-con-Panel-Frontal-AC97.md
   - Plantillas y estándares:
       - Introducción: 06-Plantillas/README.md
       - Guía de estilo: 06-Plantillas/STYLE-GUIDE.md
@@ -108,6 +112,7 @@ nav:
       - Recursos gráficos:
           - Introducción: 07-Imagenes/README.md
           - Evidencias de RMA-001: 07-Imagenes/RMA-001/README.md
+          - Evidencia de COMP-002: 07-Imagenes/COMP-002/README.md
       - Cómo contribuir: CONTRIBUTING.md
       - Autoría y créditos: AUTORIA.md
       - Publicación web: WEB-PUBLISHING.md

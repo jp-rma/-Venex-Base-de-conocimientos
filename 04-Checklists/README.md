@@ -11,3 +11,11 @@ Ejemplos:
 - Control de calidad.
 - Diagnóstico inicial.
 - Entrega al cliente.
+
+---
+
+# Documentos disponibles
+
+| Código | Documento | Estado |
+|--------|-----------|--------|
+| CHK-001 | [Ampliación de memoria o almacenamiento en notebooks](CHK-001-Ampliacion-de-Memoria-o-Almacenamiento-en-Notebooks.md) | Vigente |

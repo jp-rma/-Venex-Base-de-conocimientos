@@ -6,6 +6,61 @@ El objetivo es mantener un historial de la evolución de la estructura, organiza
 
 ---
 
+## [0.8.2] - 2026-08-15
+
+### Modificado
+
+- Restitución de las referencias oficiales de Dell y Lenovo en `CHK-001`.
+
+---
+
+## [0.8.1] - 2026-08-15
+
+### Modificado
+
+- Simplificación de `CHK-001` para concentrarlo en la desconexión de la batería y el control de elementos sueltos antes del cierre.
+
+---
+
+## [0.8.0] - 2026-08-15
+
+### Agregado
+
+- Incorporación de `CHK-001 - Ampliación de memoria o almacenamiento en notebooks`.
+- Definición de controles obligatorios sobre batería, manipulación, residuos internos y prueba final.
+- Actualización del índice principal, la portada y la navegación del sitio.
+
+---
+
+## [0.7.0] - 2026-08-15
+
+### Agregado
+
+- Incorporación de `COMP-002 - BIOSTAR H510MHP 4.0 con panel frontal AC'97`.
+- Incorporación de una fotografía comparativa de los conectores AC'97 y HD Audio.
+- Actualización de los índices, la portada, los recursos gráficos y la navegación del sitio.
+
+---
+
+## [0.6.0] - 2026-08-15
+
+### Agregado
+
+- Incorporación de `COMP-001 - Ryzen 5 3400G con motherboards B550`.
+- Documentación de la prueba interna con ASUS PRIME B550M-A AC y de las listas oficiales de compatibilidad de ASUS y MSI.
+- Actualización del índice principal, la portada y la navegación del sitio.
+
+---
+
+## [0.5.0] - 2026-08-15
+
+### Agregado
+
+- Incorporación de `GUIDE-002 - Conectores de ventiladores y bombas para refrigeración AIO`.
+- Actualización del índice principal, la portada y la navegación del sitio.
+
+---
+
 ## [0.4.1] - 2026-08-15
 
 ### Modificado

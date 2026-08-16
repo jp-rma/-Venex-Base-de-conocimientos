@@ -20,3 +20,4 @@ Ejemplos:
 | Código | Documento | Estado |
 |--------|-----------|--------|
 | GUIDE-001 | [Memoria RAM en dual channel](GUIDE-001-Memoria-RAM-Dual-Channel.md) | Vigente |
+| GUIDE-002 | [Conectores de ventiladores y bombas para refrigeración AIO](GUIDE-002-Conectores-de-Ventiladores-y-Bombas-para-AIO.md) | Vigente |
