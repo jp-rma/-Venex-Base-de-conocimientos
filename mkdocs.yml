@@ -1,0 +1,114 @@
+site_name: Base de Conocimientos Técnicos
+site_description: Manual técnico interno para Ventas, Taller de Armado, RMA y Soporte.
+site_url: https://jp-rma.github.io/base-de-conocimientos-tecnicos/
+repo_url: https://github.com/jp-rma/base-de-conocimientos-tecnicos
+repo_name: jp-rma/base-de-conocimientos-tecnicos
+edit_uri: edit/main/
+
+docs_dir: .site-docs
+site_dir: site
+use_directory_urls: true
+strict: true
+
+theme:
+  name: material
+  language: es
+  icon:
+    logo: material/book-open-page-variant
+    repo: fontawesome/brands/github
+  font: false
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Usar tema oscuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Usar tema claro
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.path
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.tooltips
+
+plugins:
+  - search:
+      lang: es
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - def_list
+  - toc:
+      permalink: true
+      title: En esta página
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/jp-rma/base-de-conocimientos-tecnicos
+      name: Repositorio en GitHub
+
+copyright: © 2026 Juan Pablo Reyes · Base de Conocimientos Técnicos
+
+nav:
+  - Inicio: index.md
+  - Procedimientos:
+      - Introducción: 01-Procedimientos/README.md
+  - Guías técnicas:
+      - Introducción: 02-Guias-Tecnicas/README.md
+      - Memoria RAM en dual channel: 02-Guias-Tecnicas/GUIDE-001-Memoria-RAM-Dual-Channel.md
+  - Casos RMA:
+      - Introducción: 03-Casos-RMA/README.md
+      - Bajones de FPS por single channel: 03-Casos-RMA/RMA-001-Bajones-de-FPS-por-Memoria-Single-Channel.md
+  - Checklists:
+      - Introducción: 04-Checklists/README.md
+  - Compatibilidades:
+      - Introducción: 05-Compatibilidades/README.md
+  - Plantillas y estándares:
+      - Introducción: 06-Plantillas/README.md
+      - Guía de estilo: 06-Plantillas/STYLE-GUIDE.md
+      - Plantilla de procedimiento: 06-Plantillas/PROC-Template.md
+      - Plantilla de guía: 06-Plantillas/GUIDE-Template.md
+      - Plantilla de caso RMA: 06-Plantillas/RMA-Template.md
+      - Plantilla de checklist: 06-Plantillas/CHK-Template.md
+      - Plantilla de compatibilidad: 06-Plantillas/COMP-Template.md
+  - Proyecto:
+      - Índice general: PROJECT-INDEX.md
+      - Recursos gráficos:
+          - Introducción: 07-Imagenes/README.md
+          - Evidencias de RMA-001: 07-Imagenes/RMA-001/README.md
+      - Cómo contribuir: CONTRIBUTING.md
+      - Autoría y créditos: AUTORIA.md
+      - Publicación web: WEB-PUBLISHING.md
+      - Historial: CHANGELOG.md
